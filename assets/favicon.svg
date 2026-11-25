@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KN Sound">
+  <rect width="64" height="64" rx="10" fill="#0a0a0b"/>
+  <circle cx="32" cy="32" r="23" fill="none" stroke="#c3a05a" stroke-width="1.4"/>
+  <text x="32" y="33.5" text-anchor="middle" dominant-baseline="middle"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20"
+        font-weight="700" letter-spacing="0.5" fill="#f6f3ec">KN</text>
+  <circle cx="47.5" cy="47.5" r="2" fill="#c3a05a"/>
+</svg>
